@@ -1,0 +1,8 @@
+{
+  "name": "mutate",
+  "version": "1.0.0",
+  "main": "js/mutate",
+  "dependencies": {
+    "is-object": "^1.0.1"
+  }
+}
